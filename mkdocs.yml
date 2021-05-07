@@ -1,4 +1,5 @@
-site_name: Notes
+site_name: Course notes
 theme: 
   name: material
 
+nav:
